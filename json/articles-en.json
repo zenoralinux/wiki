@@ -1,0 +1,56 @@
+{
+  "ui": {
+    "languageName": "English",
+    "sidebarTitle": "Navigation",
+    "tocTitle": "Table of Contents",
+    "articleNotFound": "Article Not Found",
+    "articleNotFoundMessage": "The requested article could not be found. Please check the URL or browse using the sidebar.",
+    "backToHome": "Back to Home"
+  },
+  "categories": [
+    {
+      "id": "gettingStarted",
+      "name": "Getting Started",
+      "articles": [
+        {
+          "id": "introduction",
+          "title": "Introduction"
+        },
+        {
+          "id": "installation-guide",
+          "title": "Installation Guide"
+        }
+      ]
+    },
+    {
+      "id": "configuration",
+      "name": "Configuration",
+      "articles": [
+        {
+          "id": "configuration",
+          "title": "Configuration"
+        }
+      ]
+    },
+    {
+      "id": "advanced",
+      "name": "Advanced",
+      "articles": [
+        {
+          "id": "advanced-usage",
+          "title": "Advanced Usage"
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "name": "FAQ",
+      "articles": [
+        {
+          "id": "faq",
+          "title": "FAQ"
+        }
+      ]
+    }
+  ]
+}

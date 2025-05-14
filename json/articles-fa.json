@@ -1,0 +1,56 @@
+{
+  "ui": {
+    "languageName": "فارسی",
+    "sidebarTitle": "ناوبری",
+    "tocTitle": "فهرست مطالب",
+    "articleNotFound": "مقاله یافت نشد",
+    "articleNotFoundMessage": "مقاله درخواستی یافت نشد. لطفاً URL را بررسی کنید یا از نوار کناری استفاده کنید。",
+    "backToHome": "بازگشت به خانه"
+  },
+  "categories": [
+    {
+      "id": "gettingStarted",
+      "name": "شروع به کار",
+      "articles": [
+        {
+          "id": "introduction",
+          "title": "معرفی"
+        },
+        {
+          "id": "installation-guide",
+          "title": "راهنمای نصب"
+        }
+      ]
+    },
+    {
+      "id": "configuration",
+      "name": "پیکربندی",
+      "articles": [
+        {
+          "id": "configuration",
+          "title": "پیکربندی"
+        }
+      ]
+    },
+    {
+      "id": "advanced",
+      "name": "پیشرفته",
+      "articles": [
+        {
+          "id": "advanced-usage",
+          "title": "کاربرد پیشرفته"
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "name": "سوالات متداول",
+      "articles": [
+        {
+          "id": "faq",
+          "title": "سوالات متداول"
+        }
+      ]
+    }
+  ]
+}
