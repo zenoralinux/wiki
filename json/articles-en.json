@@ -28,17 +28,7 @@
         }
       ]
     },
-    {
-      "id": "advanced",
-      "name": "Advanced",
-      "articles": [
-        {
-          "id": "advanced-usage",
-          "title": "Advanced Usage"
-        }
-      ]
-    },
-
+    
     
     {
       "id": "hardware-control",
