@@ -43,8 +43,8 @@
       ]
     },
     {
-      "id": "practical-packages",
-      "name": "Practical packages",
+      "id": "hardware-tools",
+      "name": "Hardware Tools",
       "articles": [
         {
           "id": "open-rgb",
@@ -52,6 +52,20 @@
         }
       ]
     },
+
+    
+        {
+      "id": "browse-anonymously",
+      "name": "Browse anonymously",
+      "articles": [
+        {
+          "id": "carburetor",
+          "title": "carburetor"
+        }
+      ]
+    },
+
+    
     {
       "id": "faq",
       "name": "FAQ",
