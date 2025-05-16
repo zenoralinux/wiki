@@ -42,6 +42,17 @@
         }
       ]
     },
+    ,
+    {
+      "id": "Practical-packages",
+      "name": "Practical packages",
+      "articles": [
+        {
+          "id": "open-rgb",
+          "title": "zenora Openrgb"
+        }
+      ]
+    },
     {
       "id": "faq",
       "name": "FAQ",
