@@ -22,11 +22,11 @@ After installation :
 
  Then click on the Connect button to start the connection.
  
-<img src="https://github.com/user-attachments/assets/fd024798-f0cb-48ac-aa69-ef8c62d48dbb" width="30%">
+<img src="https://github.com/user-attachments/assets/fd024798-f0cb-48ac-aa69-ef8c62d48dbb" width="40%">
 
 Once connected, go to the top menu and choose "Set Proxy" to route all your traffic through Carburetor. This lets you browse freely without restrictions, keeping your connection secure and private.
 
-<img src="https://github.com/user-attachments/assets/7bbb0634-de2e-418a-beb3-fe65e4a345cb" width="35%">
+<img src="https://github.com/user-attachments/assets/7bbb0634-de2e-418a-beb3-fe65e4a345cb" width="40%">
 
 
 
