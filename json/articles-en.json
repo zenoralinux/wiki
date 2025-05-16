@@ -13,10 +13,6 @@
       "name": "Getting Started",
       "articles": [
         {
-          "id": "introduction",
-          "title": "Introduction"
-        },
-        {
           "id": "installation-guide",
           "title": "Installation Guide"
         }
