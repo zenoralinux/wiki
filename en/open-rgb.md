@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/user-attachments/assets/0894c7b6-6469-4858-a273-5f9d72efcd02">
+<img src="https://github.com/user-attachments/assets/0894c7b6-6469-4858-a273-5f9d72efcd02" width="50%">
 
 # OpenRGB Installation & Configuration
 
