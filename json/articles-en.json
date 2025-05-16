@@ -43,6 +43,16 @@
       ]
     },
     {
+      "id": "advanced",
+      "name": "Practical packages",
+      "articles": [
+        {
+          "id": "advanced-usage",
+          "title": "Advanced Usage"
+        }
+      ]
+    },
+    {
       "id": "faq",
       "name": "FAQ",
       "articles": [
