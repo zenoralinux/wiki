@@ -18,15 +18,16 @@ Follow these steps to install `carburetor-rc-git` from the AUR (Arch User Reposi
 After installation :
  Click on the carburetor icon:
 
-![Screenshot from 2025-04-19 00-35-56](https://github.com/user-attachments/assets/f248cc80-074a-4c72-83c5-4035e8129ac8)
+<img src="https://github.com/user-attachments/assets/f248cc80-074a-4c72-83c5-4035e8129ac8" width="15%">
 
  Then click on the Connect button to start the connection.
-
-![Screenshot from 2025-04-19 00-37-29](https://github.com/user-attachments/assets/fd024798-f0cb-48ac-aa69-ef8c62d48dbb)
+ 
+<img src="https://github.com/user-attachments/assets/fd024798-f0cb-48ac-aa69-ef8c62d48dbb" width="30%">
 
 Once connected, go to the top menu and choose "Set Proxy" to route all your traffic through Carburetor. This lets you browse freely without restrictions, keeping your connection secure and private.
 
-![Screenshot from 2025-04-19 00-37-50](https://github.com/user-attachments/assets/7bbb0634-de2e-418a-beb3-fe65e4a345cb)
+<img src="https://github.com/user-attachments/assets/7bbb0634-de2e-418a-beb3-fe65e4a345cb" width="35%">
+
 
 
 
