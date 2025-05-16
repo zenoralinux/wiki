@@ -1,4 +1,4 @@
-# hiddify Next  ‐ Secure & Anonymous Browsing
+hiddify Next  ‐ Secure & Anonymous Browsing
 ## what is hiddify?
 **hiddify ** is a privacy-focused application that enables secure and anonymous browsing by masking your IP and encrypting internet traffic. It works as a local proxy/VPN, ensuring your online activities remain untraceable.  
 
