@@ -1,4 +1,4 @@
-# Carburetor RC (Git) ‐ Browse anonymously (vpn)
+Carburetor RC (Git) ‐ Browse anonymously (vpn)
 ---
 
 ## What is Carburetor?
