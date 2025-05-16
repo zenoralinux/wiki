@@ -54,20 +54,21 @@
     },
 
     
-        {
-      "id": "browse-anonymously",
-      "name": "Browse anonymously",
-      "articles": [
-        {
-          "id": "carburetor",
-          "title": "Carburetor"
-        }
-            {
-          "id": "hiddify-next-gen",
-          "title": "Hiddify Next Gen"
-        }
-      ]
+       {
+  "id": "browse-anonymously",
+  "name": "Browse anonymously",
+  "articles": [
+    {
+      "id": "carburetor",
+      "title": "Carburetor"
     },
+    {
+      "id": "hiddify-next-gen",
+      "title": "Hiddify Next Gen"
+    }
+  ]
+}
+,
 
     
     {
