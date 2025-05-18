@@ -3,19 +3,15 @@
     "languageName": "فارسی",
     "sidebarTitle": "ناوبری",
     "tocTitle": "فهرست مطالب",
-    "articleNotFound": "مقاله یافت نشد",
-    "articleNotFoundMessage": "مقاله درخواستی یافت نشد. لطفاً URL را بررسی کنید یا از نوار کناری استفاده کنید。",
-    "backToHome": "بازگشت به خانه"
+    "articleNotFound": "مقاله پیدا نشد",
+    "articleNotFoundMessage": "مقاله مورد نظر یافت نشد. لطفاً آدرس را بررسی کرده یا از نوار کناری استفاده کنید.",
+    "backToHome": "بازگشت به صفحه اصلی"
   },
   "categories": [
     {
       "id": "gettingStarted",
-      "name": "شروع به کار",
+      "name": "شروع کار",
       "articles": [
-        {
-          "id": "introduction",
-          "title": "معرفی"
-        },
         {
           "id": "installation-guide",
           "title": "راهنمای نصب"
@@ -23,32 +19,46 @@
       ]
     },
     {
-      "id": "configuration",
-      "name": "پیکربندی",
+      "id": "hardware-control",
+      "name": "کنترل سخت‌افزار",
       "articles": [
         {
-          "id": "configuration",
-          "title": "پیکربندی"
+          "id": "open-rgb",
+          "title": "Open RGB"
         }
       ]
     },
     {
-      "id": "advanced",
-      "name": "پیشرفته",
+      "id": "practical-tools",
+      "name": "ابزارهای کاربردی",
       "articles": [
         {
-          "id": "advanced-usage",
-          "title": "کاربرد پیشرفته"
+          "id": "qemu-kvm",
+          "title": "Qemu Kvm"
+        }
+      ]
+    },
+    {
+      "id": "browse-anonymously",
+      "name": "مرور ناشناس",
+      "articles": [
+        {
+          "id": "carburetor",
+          "title": "Carburetor"
+        },
+        {
+          "id": "hiddify-next-gen",
+          "title": "Hiddify نسل بعد"
         }
       ]
     },
     {
       "id": "faq",
-      "name": "سوالات متداول",
+      "name": "سؤالات متداول",
       "articles": [
         {
           "id": "faq",
-          "title": "سوالات متداول"
+          "title": "سؤالات متداول"
         }
       ]
     }
