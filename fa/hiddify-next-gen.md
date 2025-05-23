@@ -42,9 +42,3 @@ yay -S aur/hiddify
 ---
 
 
-##
-
-
-
-
-.
