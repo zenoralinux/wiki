@@ -35,6 +35,10 @@
         {
           "id": "qemu-kvm",
           "title": "Qemu Kvm"
+        },
+        {
+          "id": "yay",
+          "title": "راهنمای yay"
         }
       ]
     },
