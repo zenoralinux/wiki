@@ -1,4 +1,5 @@
-Certainly! Here's the English version of the wiki for installing and using BlackArch security tools on Zenora Linux, with the removal of the repository-adding section, aligned with your request:
+
+
 
 # Installing BlackArch Security Tools on Zenora Linux
 
