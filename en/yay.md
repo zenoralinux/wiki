@@ -1,14 +1,12 @@
-حتماً! در ادامه نسخه انگلیسی همان ویکی برای `yay` به‌صورت کامل و حرفه‌ای آماده شده است:
-
 # Installing and Configuring yay
 
-Welcome to the **yay Installation and Configuration Guide**. This document will help you install **yay**, one of the most popular AUR helpers, configure it properly, and take full advantage of its features on your Arch Linux system.
+Welcome to the **yay Installation and Configuration Guide**. This document will help you install **yay**, one of the most popular AUR helpers, configure it properly, and take full advantage of its features on your Zenora Linux system.
 
 ---
 
 ## 📜 Overview
 
-**yay** (Yet Another Yaourt) is a modern, lightweight AUR helper for Arch Linux that enables you to search for, install, and manage packages from the **AUR (Arch User Repository)** alongside official repositories.
+**yay** (Yet Another Yaourt) is a modern, lightweight AUR helper for Zenroa Linux that enables you to search for, install, and manage packages from the **AUR (Arch User Repository)** alongside official repositories.
 
 Key features of **yay** include:
 
