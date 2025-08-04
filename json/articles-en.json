@@ -18,9 +18,6 @@
         }
       ]
     },
-
-    
-    
     {
       "id": "hardware-control",
       "name": "Hardware Control",
@@ -38,27 +35,27 @@
         {
           "id": "qemu-kvm",
           "title": "Qemu Kvm "
+        },
+        {
+          "id": "yay",
+          "title": "yay AUR Helper"
         }
       ]
     },
-
-       {
-  "id": "browse-anonymously",
-  "name": "Browse anonymously",
-  "articles": [
     {
-      "id": "carburetor",
-      "title": "Carburetor"
+      "id": "browse-anonymously",
+      "name": "Browse anonymously",
+      "articles": [
+        {
+          "id": "carburetor",
+          "title": "Carburetor"
+        },
+        {
+          "id": "hiddify-next-gen",
+          "title": "Hiddify Next Gen"
+        }
+      ]
     },
-    {
-      "id": "hiddify-next-gen",
-      "title": "Hiddify Next Gen"
-    }
-  ]
-}
-,
-
-    
     {
       "id": "faq",
       "name": "FAQ",
